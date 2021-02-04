@@ -1,4 +1,4 @@
-module go-common
+module github.com/lfdlxh/go-common
 
 go 1.14
 
